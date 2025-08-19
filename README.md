@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
 </p>
 
-## Hi there 👋
 
 <!--
 **riasdi/riasdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
