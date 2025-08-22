@@ -1,7 +1,7 @@
 <h1 align="center">Hey There!! 👋, It's Riva Dias </h1>
 
 <div align="center">
-  <img src="https://github.com/riasdi/riasdi/blob/main/bckgrnd.png" alt="Riva BackgroundBanner">
+  <img src="https://github.com/riasdi/riasdi/blob/main/linkd-background.png" alt="Riva BackgroundBanner">
 </div>
 
 <h3 align="center">A DevOps Enthusiast. Trying to break in the world of DevOps and Cloud </h3>
